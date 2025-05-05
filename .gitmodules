@@ -1,0 +1,3 @@
+[submodule "mondrian"]
+	path = mondrian
+	url = https://github.com/pentaho/mondrian.git
