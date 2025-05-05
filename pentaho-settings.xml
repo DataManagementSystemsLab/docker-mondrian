@@ -1,0 +1,7 @@
+ <mirrors>
+    <mirror>
+      <id>pentaho-public</id>
+      <url>https://repo.orl.eng.hitachivantara.com/artifactory/pnt-mvn/</url>
+      <mirrorOf>*</mirrorOf>
+    </mirror>
+  </mirrors>
